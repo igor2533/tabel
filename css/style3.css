@@ -1,0 +1,19 @@
+body {
+   background: url(https://i.pinimg.com/originals/19/f3/0a/19f30a5f9dd476b2016d2c74f49e3db5.jpg)repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+span {
+    display: inline-block;
+    position: relative;
+    padding: 4px;
+    width: 200px;
+    background-color: #770000;
+    border-radius: 5px;
+    font: 20px verdana;
+    color: #fff; 
+    text-align: center;
+}
+p {
+    margin: 5px;
+}
